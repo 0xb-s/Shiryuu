@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "crates/ast",
+    "crates/parser",
+
+]
+
+
+[workspace.dependencies]
+ast = { path = "../ast" }
+regex = "1.11.1"
