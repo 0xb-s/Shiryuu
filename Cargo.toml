@@ -2,6 +2,7 @@
 members = [
     "crates/ast",
     "crates/parser",
+    "crates/codegen/,
 
 ]
 
