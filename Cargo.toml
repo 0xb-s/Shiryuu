@@ -8,5 +8,7 @@ members = [
 
 
 [workspace.dependencies]
+
 ast = { path = "../ast" }
+
 regex = "1.11.1"
